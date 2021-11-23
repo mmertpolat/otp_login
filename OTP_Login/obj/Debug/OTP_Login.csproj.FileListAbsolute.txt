@@ -1,0 +1,7 @@
+C:\Users\Mertoğlan\source\repos\OTP_Login\OTP_Login\bin\Debug\OTP_Login.exe.config
+C:\Users\Mertoğlan\source\repos\OTP_Login\OTP_Login\bin\Debug\OTP_Login.exe
+C:\Users\Mertoğlan\source\repos\OTP_Login\OTP_Login\bin\Debug\OTP_Login.pdb
+C:\Users\Mertoğlan\source\repos\OTP_Login\OTP_Login\obj\Debug\OTP_Login.csprojAssemblyReference.cache
+C:\Users\Mertoğlan\source\repos\OTP_Login\OTP_Login\obj\Debug\OTP_Login.csproj.CoreCompileInputs.cache
+C:\Users\Mertoğlan\source\repos\OTP_Login\OTP_Login\obj\Debug\OTP_Login.exe
+C:\Users\Mertoğlan\source\repos\OTP_Login\OTP_Login\obj\Debug\OTP_Login.pdb

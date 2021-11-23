@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTP_Login", "OTP_Login\OTP_Login.csproj", "{DE81F5CC-3942-4130-BAF6-B93F3870099F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE81F5CC-3942-4130-BAF6-B93F3870099F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE81F5CC-3942-4130-BAF6-B93F3870099F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE81F5CC-3942-4130-BAF6-B93F3870099F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE81F5CC-3942-4130-BAF6-B93F3870099F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C43A34BB-07B6-4E12-BBE1-70FB75A4D21A}
+	EndGlobalSection
+EndGlobal
